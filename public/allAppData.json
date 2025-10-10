@@ -1,362 +1,362 @@
 [
   {
-    "image": "https://img.logo.dev/google.com?token=pk_EclP8psRS3OsUQbk-IgvtQ&retina=true",
-    "title": "Google",
-    "companyName": "Google LLC",
+    "image": "https://img.logo.dev/whatsapp.com?token=pk_test123&retina=true",
+    "title": "WhatsApp",
+    "companyName": "Meta Platforms",
     "id": 1,
-    "description": "Google is the most widely used search engine and a global technology leader. It offers users access to information, images, videos, and maps in seconds. Beyond search, Google provides Gmail, Drive, Docs, and Android, making it an essential part of digital life. With its AI-powered tools, it enhances productivity, education, and communication worldwide. Google’s ecosystem includes YouTube, Chrome, and Google Cloud, supporting both individuals and enterprises. Known for innovation, speed, and reliability, Google has become the primary gateway to the internet for billions of people, helping them learn, work, and stay connected every day with smarter technology solutions.",
-    "size": 45,
-    "reviews": 1250000,
+    "description": "Secure messaging app with end-to-end encryption, voice and video calls, and media sharing.",
+    "size": 50,
+    "reviews": 2800000,
     "ratingAvg": 4.6,
-    "downloads": 5000000000,
-    "ratings": [
-      { "name": "1 star", "count": 30000 },
-      { "name": "2 star", "count": 20000 },
-      { "name": "3 star", "count": 40000 },
-      { "name": "4 star", "count": 120000 },
-      { "name": "5 star", "count": 1100000 }
-    ]
-  },
-  {
-    "image": "https://img.logo.dev/facebook.com?token=pk_EclP8psRS3OsUQbk-IgvtQ&retina=true",
-    "title": "Facebook",
-    "companyName": "Meta Platforms",
-    "id": 2,
-    "description": "Facebook is one of the world’s largest social media platforms, enabling billions of people to connect and share moments with friends, family, and communities. It allows users to post updates, photos, videos, and live streams while staying updated on global trends. Businesses and creators use Facebook Pages, Ads, and Groups to expand their audiences. Marketplace offers local buying and selling, while Events keep users engaged with communities. Integrated with Messenger, communication is seamless. As part of Meta, Facebook also invests in virtual reality and metaverse development, continuing to shape the future of online social interaction and digital connectivity worldwide.",
-    "size": 80,
-    "reviews": 2400000,
-    "ratingAvg": 4.3,
-    "downloads": 3000000000,
-    "ratings": [
-      { "name": "1 star", "count": 90000 },
-      { "name": "2 star", "count": 70000 },
-      { "name": "3 star", "count": 120000 },
-      { "name": "4 star", "count": 500000 },
-      { "name": "5 star", "count": 1700000 }
-    ]
-  },
-  {
-    "image": "https://img.logo.dev/twitter.com?token=pk_EclP8psRS3OsUQbk-IgvtQ&retina=true",
-    "title": "Twitter",
-    "companyName": "X Corp",
-    "id": 3,
-    "description": "Twitter, now rebranded as X, is a leading microblogging platform where people share short messages called tweets. It connects users globally in real time, making it a go-to space for breaking news, trends, and discussions. Users can follow topics, engage in conversations, and express opinions instantly. With hashtags, trending topics, and spaces for live audio, Twitter has become essential for journalists, influencers, and businesses. The platform also offers advertising tools for brand growth. Under new leadership, X aims to expand into financial services and a super-app model. It remains a vital hub for digital communication and global conversations online.",
-    "size": 35,
-    "reviews": 870000,
-    "ratingAvg": 4.2,
-    "downloads": 1200000000,
-    "ratings": [
-      { "name": "1 star", "count": 50000 },
-      { "name": "2 star", "count": 30000 },
-      { "name": "3 star", "count": 80000 },
-      { "name": "4 star", "count": 200000 },
-      { "name": "5 star", "count": 510000 }
-    ]
-  },
-  {
-    "image": "https://img.logo.dev/instagram.com?token=pk_EclP8psRS3OsUQbk-IgvtQ&retina=true",
-    "title": "Instagram",
-    "companyName": "Meta Platforms",
-    "id": 4,
-    "description": "Instagram is a popular photo and video sharing app used by millions worldwide. It allows people to capture, edit, and share their moments with friends, family, and followers. With features like Stories, Reels, and IGTV, it has become a hub for creative expression. Businesses and influencers use Instagram to promote brands, connect with audiences, and drive engagement through ads and shopping tools. Its algorithm highlights trending content, making it easy to discover new creators. Owned by Meta, Instagram continues to evolve with innovative features to support both casual users and professionals, shaping modern visual communication across the internet.",
-    "size": 60,
-    "reviews": 2100000,
-    "ratingAvg": 4.5,
-    "downloads": 2500000000,
+    "downloads": 5200000000,
     "ratings": [
       { "name": "1 star", "count": 60000 },
       { "name": "2 star", "count": 50000 },
       { "name": "3 star", "count": 90000 },
-      { "name": "4 star", "count": 350000 },
+      { "name": "4 star", "count": 400000 },
+      { "name": "5 star", "count": 2300000 }
+    ]
+  },
+  {
+    "image": "https://img.logo.dev/zoom.us?token=pk_test123&retina=true",
+    "title": "Zoom",
+    "companyName": "Zoom Video Communications",
+    "id": 2,
+    "description": "Video conferencing platform for online meetings, remote work, and virtual classes.",
+    "size": 110,
+    "reviews": 950000,
+    "ratingAvg": 4.4,
+    "downloads": 2500000000,
+    "ratings": [
+      { "name": "1 star", "count": 40000 },
+      { "name": "2 star", "count": 30000 },
+      { "name": "3 star", "count": 80000 },
+      { "name": "4 star", "count": 220000 },
+      { "name": "5 star", "count": 580000 }
+    ]
+  },
+  {
+    "image": "https://img.logo.dev/google.com?token=pk_test123&retina=true",
+    "title": "Google",
+    "companyName": "Google LLC",
+    "id": 3,
+    "description": "Search, cloud, and productivity apps like Gmail, Drive, Maps, and YouTube.",
+    "size": 70,
+    "reviews": 1100000,
+    "ratingAvg": 4.5,
+    "downloads": 4800000000,
+    "ratings": [
+      { "name": "1 star", "count": 25000 },
+      { "name": "2 star", "count": 20000 },
+      { "name": "3 star", "count": 50000 },
+      { "name": "4 star", "count": 150000 },
+      { "name": "5 star", "count": 1000000 }
+    ]
+  },
+  {
+    "image": "https://img.logo.dev/facebook.com?token=pk_test123&retina=true",
+    "title": "Facebook",
+    "companyName": "Meta Platforms",
+    "id": 4,
+    "description": "Social media app for connecting with friends, sharing posts, and joining groups.",
+    "size": 90,
+    "reviews": 1800000,
+    "ratingAvg": 4.2,
+    "downloads": 3500000000,
+    "ratings": [
+      { "name": "1 star", "count": 70000 },
+      { "name": "2 star", "count": 50000 },
+      { "name": "3 star", "count": 110000 },
+      { "name": "4 star", "count": 300000 },
+      { "name": "5 star", "count": 1270000 }
+    ]
+  },
+  {
+    "image": "https://img.logo.dev/twitter.com?token=pk_test123&retina=true",
+    "title": "Twitter (X)",
+    "companyName": "X Corp",
+    "id": 5,
+    "description": "Microblogging app for real-time updates, trending topics, and global conversations.",
+    "size": 65,
+    "reviews": 1200000,
+    "ratingAvg": 4.3,
+    "downloads": 2100000000,
+    "ratings": [
+      { "name": "1 star", "count": 40000 },
+      { "name": "2 star", "count": 30000 },
+      { "name": "3 star", "count": 70000 },
+      { "name": "4 star", "count": 180000 },
+      { "name": "5 star", "count": 900000 }
+    ]
+  },
+  {
+    "image": "https://img.logo.dev/instagram.com?token=pk_test123&retina=true",
+    "title": "Instagram",
+    "companyName": "Meta Platforms",
+    "id": 6,
+    "description": "Photo and video sharing app with reels, stories, and influencer content.",
+    "size": 80,
+    "reviews": 2000000,
+    "ratingAvg": 4.6,
+    "downloads": 4500000000,
+    "ratings": [
+      { "name": "1 star", "count": 50000 },
+      { "name": "2 star", "count": 40000 },
+      { "name": "3 star", "count": 100000 },
+      { "name": "4 star", "count": 300000 },
       { "name": "5 star", "count": 1550000 }
     ]
   },
   {
-    "image": "https://img.logo.dev/whatsapp.com?token=pk_EclP8psRS3OsUQbk-IgvtQ&retina=true",
-    "title": "WhatsApp",
-    "companyName": "Meta Platforms",
-    "id": 5,
-    "description": "WhatsApp is a free messaging app used by over two billion people worldwide for instant communication. It supports text messages, voice notes, images, videos, and documents. With end-to-end encryption, conversations are private and secure. WhatsApp also offers voice and video calling, making it a complete communication tool. Its business version enables companies to connect with customers through catalogs, automated replies, and secure messaging. Group chats, communities, and broadcast features allow people to stay organized. As part of Meta, WhatsApp continues to innovate, providing a simple, reliable, and fast way to connect with anyone, anywhere, across different devices and networks.",
-    "size": 40,
-    "reviews": 3100000,
-    "ratingAvg": 4.7,
-    "downloads": 5000000000,
-    "ratings": [
-      { "name": "1 star", "count": 70000 },
-      { "name": "2 star", "count": 40000 },
-      { "name": "3 star", "count": 100000 },
-      { "name": "4 star", "count": 450000 },
-      { "name": "5 star", "count": 2480000 }
-    ]
-  },
-  {
-    "image": "https://img.logo.dev/linkedin.com?token=pk_EclP8psRS3OsUQbk-IgvtQ&retina=true",
-    "title": "LinkedIn",
-    "companyName": "Microsoft",
-    "id": 6,
-    "description": "LinkedIn is the world’s largest professional networking platform, connecting millions of professionals, recruiters, and businesses. It allows users to create profiles, showcase skills, and apply for jobs. Companies use LinkedIn to post vacancies, recruit talent, and share industry insights. With features like LinkedIn Learning, it also supports professional development through online courses. Networking, endorsements, and business pages make it a powerful tool for career growth. LinkedIn Ads help brands reach targeted audiences. Owned by Microsoft, it continues to expand into AI-driven recommendations, job matching, and skills training, making it an essential platform for career development and business networking.",
-    "size": 75,
-    "reviews": 550000,
-    "ratingAvg": 4.4,
+    "image": "https://img.logo.dev/discord.com?token=pk_test123&retina=true",
+    "title": "Discord",
+    "companyName": "Discord Inc",
+    "id": 7,
+    "description": "Chat app for gamers and communities with voice, video, and moderation tools.",
+    "size": 85,
+    "reviews": 800000,
+    "ratingAvg": 4.5,
     "downloads": 1000000000,
     "ratings": [
       { "name": "1 star", "count": 20000 },
       { "name": "2 star", "count": 15000 },
       { "name": "3 star", "count": 30000 },
-      { "name": "4 star", "count": 150000 },
-      { "name": "5 star", "count": 335000 }
+      { "name": "4 star", "count": 120000 },
+      { "name": "5 star", "count": 615000 }
     ]
   },
   {
-    "image": "https://img.logo.dev/snapchat.com?token=pk_EclP8psRS3OsUQbk-IgvtQ&retina=true",
-    "title": "Snapchat",
-    "companyName": "Snap Inc",
-    "id": 7,
-    "description": "Snapchat is a multimedia messaging app that revolutionized the way people share moments online. It allows users to send snaps—photos and videos—that disappear after viewing. With Stories, Spotlight, and Discover, Snapchat keeps people entertained and informed. Augmented reality filters and lenses make communication fun and creative. The app also supports voice and video calls, as well as Bitmoji avatars for personalization. Businesses and creators use Snapchat Ads to connect with younger audiences. With over 500 million monthly users, Snapchat continues to evolve with innovative AR technology, keeping it a unique platform for real-time, playful, and engaging digital interaction worldwide.",
-    "size": 55,
-    "reviews": 630000,
-    "ratingAvg": 4.2,
-    "downloads": 1200000000,
-    "ratings": [
-      { "name": "1 star", "count": 25000 },
-      { "name": "2 star", "count": 20000 },
-      { "name": "3 star", "count": 40000 },
-      { "name": "4 star", "count": 180000 },
-      { "name": "5 star", "count": 365000 }
-    ]
-  },
-  {
-    "image": "https://img.logo.dev/tiktok.com?token=pk_EclP8psRS3OsUQbk-IgvtQ&retina=true",
-    "title": "TikTok",
-    "companyName": "ByteDance",
+    "image": "https://img.logo.dev/linkedin.com?token=pk_test123&retina=true",
+    "title": "LinkedIn",
+    "companyName": "Microsoft",
     "id": 8,
-    "description": "TikTok is one of the fastest-growing social media apps that lets users create, share, and discover short videos. It has become a hub for trends, music, and viral challenges. TikTok’s algorithm shows highly personalized content, keeping users engaged for hours. Creators use it to showcase talent, grow audiences, and monetize content. With built-in editing tools, filters, and sounds, making videos is easy and creative. Brands use TikTok Ads to reach younger audiences effectively. Despite controversies over data privacy, it continues to grow globally, influencing pop culture, music, and entertainment as one of the most powerful digital platforms today.",
-    "size": 90,
-    "reviews": 1800000,
+    "description": "Professional networking platform for jobs, connections, and industry insights.",
+    "size": 95,
+    "reviews": 600000,
     "ratingAvg": 4.4,
-    "downloads": 3000000000,
+    "downloads": 1300000000,
     "ratings": [
-      { "name": "1 star", "count": 80000 },
-      { "name": "2 star", "count": 60000 },
-      { "name": "3 star", "count": 100000 },
+      { "name": "1 star", "count": 15000 },
+      { "name": "2 star", "count": 12000 },
+      { "name": "3 star", "count": 25000 },
+      { "name": "4 star", "count": 80000 },
+      { "name": "5 star", "count": 470000 }
+    ]
+  },
+  {
+    "image": "https://img.logo.dev/spotify.com?token=pk_test123&retina=true",
+    "title": "Spotify",
+    "companyName": "Spotify AB",
+    "id": 9,
+    "description": "Music streaming app with playlists, offline mode, and AI-powered discovery.",
+    "size": 120,
+    "reviews": 2000000,
+    "ratingAvg": 4.7,
+    "downloads": 4200000000,
+    "ratings": [
+      { "name": "1 star", "count": 50000 },
+      { "name": "2 star", "count": 40000 },
+      { "name": "3 star", "count": 90000 },
+      { "name": "4 star", "count": 300000 },
+      { "name": "5 star", "count": 1560000 }
+    ]
+  },
+  {
+    "image": "https://img.logo.dev/youtube.com?token=pk_test123&retina=true",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "id": 10,
+    "description": "Video streaming app with billions of videos, shorts, and live content.",
+    "size": 150,
+    "reviews": 4000000,
+    "ratingAvg": 4.8,
+    "downloads": 6000000000,
+    "ratings": [
+      { "name": "1 star", "count": 100000 },
+      { "name": "2 star", "count": 90000 },
+      { "name": "3 star", "count": 150000 },
+      { "name": "4 star", "count": 500000 },
+      { "name": "5 star", "count": 3150000 }
+    ]
+  },
+  {
+    "image": "https://img.logo.dev/netflix.com?token=pk_test123&retina=true",
+    "title": "Netflix",
+    "companyName": "Netflix Inc",
+    "id": 11,
+    "description": "Streaming service with movies, series, and original content worldwide.",
+    "size": 160,
+    "reviews": 1800000,
+    "ratingAvg": 4.5,
+    "downloads": 3500000000,
+    "ratings": [
+      { "name": "1 star", "count": 70000 },
+      { "name": "2 star", "count": 50000 },
+      { "name": "3 star", "count": 120000 },
       { "name": "4 star", "count": 400000 },
       { "name": "5 star", "count": 1160000 }
     ]
   },
   {
-    "image": "https://img.logo.dev/reddit.com?token=pk_EclP8psRS3OsUQbk-IgvtQ&retina=true",
-    "title": "Reddit",
-    "companyName": "Reddit Inc",
-    "id": 9,
-    "description": "Reddit is a diverse online community platform where people share, discuss, and explore topics through posts and comments. It is organized into subreddits, each dedicated to specific interests such as news, gaming, technology, or memes. Users can upvote or downvote content, shaping what becomes popular. Reddit AMAs (Ask Me Anything) and communities make it a go-to place for authentic conversations. With anonymity and inclusivity, it attracts millions of daily users. Reddit Premium offers ad-free experiences, while Reddit Ads help businesses reach targeted audiences. It continues to grow as a space for open dialogue, entertainment, and knowledge-sharing online worldwide.",
-    "size": 50,
-    "reviews": 410000,
-    "ratingAvg": 4.3,
-    "downloads": 600000000,
-    "ratings": [
-      { "name": "1 star", "count": 18000 },
-      { "name": "2 star", "count": 14000 },
-      { "name": "3 star", "count": 25000 },
-      { "name": "4 star", "count": 110000 },
-      { "name": "5 star", "count": 243000 }
-    ]
-  },
-  {
-    "image": "https://img.logo.dev/pinterest.com?token=pk_EclP8psRS3OsUQbk-IgvtQ&retina=true",
-    "title": "Pinterest",
-    "companyName": "Pinterest Inc",
-    "id": 10,
-    "description": "Pinterest is a visual discovery platform that allows users to find, save, and organize creative ideas. It is widely used for inspiration in categories like fashion, home décor, food recipes, travel, and DIY projects. Users can create boards to save pins and explore curated content based on interests. Businesses and creators use Pinterest for brand promotion and product discovery, with shopping features integrated directly into the app. Its algorithm suggests ideas tailored to user behavior. With a community-driven approach, Pinterest helps people plan projects and explore lifestyles. It remains a go-to source for inspiration and creativity across multiple industries.",
-    "size": 65,
-    "reviews": 370000,
-    "ratingAvg": 4.5,
-    "downloads": 900000000,
-    "ratings": [
-      { "name": "1 star", "count": 15000 },
-      { "name": "2 star", "count": 12000 },
-      { "name": "3 star", "count": 20000 },
-      { "name": "4 star", "count": 100000 },
-      { "name": "5 star", "count": 223000 }
-    ]
-  },
-  {
-    "image": "https://img.logo.dev/spotify.com?token=pk_EclP8psRS3OsUQbk-IgvtQ&retina=true",
-    "title": "Spotify",
-    "companyName": "Spotify AB",
-    "id": 11,
-    "description": "Spotify is the world’s leading music streaming service, offering millions of songs, podcasts, and audiobooks on demand. Users can create playlists, discover new artists, and enjoy personalized recommendations through powerful AI algorithms. It supports offline downloads and premium ad-free listening. Spotify is available across devices like smartphones, desktops, smart speakers, and cars. Artists and podcasters use Spotify to reach global audiences and monetize content. Its curated playlists and charts influence music trends worldwide. With constant innovation and global availability, Spotify has transformed the music industry by making music more accessible, personalized, and social for people everywhere.",
-    "size": 100,
-    "reviews": 2700000,
-    "ratingAvg": 4.6,
-    "downloads": 4000000000,
-    "ratings": [
-      { "name": "1 star", "count": 70000 },
-      { "name": "2 star", "count": 50000 },
-      { "name": "3 star", "count": 120000 },
-      { "name": "4 star", "count": 400000 },
-      { "name": "5 star", "count": 2110000 }
-    ]
-  },
-  {
-    "image": "https://img.logo.dev/netflix.com?token=pk_EclP8psRS3OsUQbk-IgvtQ&retina=true",
-    "title": "Netflix",
-    "companyName": "Netflix Inc",
+    "image": "https://img.logo.dev/shopify.com?token=pk_test123&retina=true",
+    "title": "Shopify",
+    "companyName": "Shopify Inc",
     "id": 12,
-    "description": "Netflix is a global streaming service that revolutionized how people watch TV shows and movies. It offers a massive library of entertainment, including original content like Stranger Things, The Crown, and Squid Game. Subscribers can watch on-demand across smartphones, smart TVs, and tablets with personalized recommendations. Netflix supports offline downloads and multiple profiles, making it family-friendly. With its focus on storytelling and high-quality production, it has become a leader in streaming entertainment. Netflix also invests heavily in local-language shows to reach global audiences. It remains one of the most popular platforms for binge-watching, entertainment, and cinematic experiences worldwide.",
-    "size": 150,
-    "reviews": 1500000,
-    "ratingAvg": 4.5,
-    "downloads": 3000000000,
-    "ratings": [
-      { "name": "1 star", "count": 60000 },
-      { "name": "2 star", "count": 40000 },
-      { "name": "3 star", "count": 90000 },
-      { "name": "4 star", "count": 300000 },
-      { "name": "5 star", "count": 1100000 }
-    ]
-  },
-  {
-    "image": "https://img.logo.dev/amazon.com?token=pk_EclP8psRS3OsUQbk-IgvtQ&retina=true",
-    "title": "Amazon",
-    "companyName": "Amazon Inc",
-    "id": 13,
-    "description": "Amazon is the world’s largest e-commerce platform, offering millions of products across categories like electronics, fashion, groceries, and books. Its app allows users to shop conveniently with fast delivery, secure payments, and real-time order tracking. With Amazon Prime, customers enjoy free shipping, exclusive deals, and access to Prime Video. Businesses and sellers use Amazon to reach global customers. Its Alexa smart devices and AWS cloud services also shape modern technology. Amazon continues to expand into AI, logistics, and entertainment, making it more than just an online marketplace. It remains a powerful force in e-commerce and digital transformation worldwide.",
-    "size": 140,
-    "reviews": 1900000,
-    "ratingAvg": 4.4,
-    "downloads": 5000000000,
-    "ratings": [
-      { "name": "1 star", "count": 70000 },
-      { "name": "2 star", "count": 60000 },
-      { "name": "3 star", "count": 100000 },
-      { "name": "4 star", "count": 400000 },
-      { "name": "5 star", "count": 1270000 }
-    ]
-  },
-  {
-    "image": "https://img.logo.dev/microsoft.com?token=pk_EclP8psRS3OsUQbk-IgvtQ&retina=true",
-    "title": "Microsoft",
-    "companyName": "Microsoft Corporation",
-    "id": 14,
-    "description": "Microsoft is a global technology company known for its software, hardware, and cloud services. Its Windows operating system powers millions of devices, while Microsoft Office is the most used productivity suite worldwide. The company also owns LinkedIn, GitHub, and Xbox, shaping both business and entertainment industries. With Azure cloud, it supports enterprises in digital transformation. Microsoft Teams enables remote collaboration for businesses and schools. Through continuous innovation in AI, cybersecurity, and gaming, Microsoft remains a leader in technology. Its mission is to empower every person and organization to achieve more, making it one of the most influential companies globally.",
-    "size": 200,
-    "reviews": 1750000,
-    "ratingAvg": 4.5,
-    "downloads": 4000000000,
-    "ratings": [
-      { "name": "1 star", "count": 60000 },
-      { "name": "2 star", "count": 50000 },
-      { "name": "3 star", "count": 100000 },
-      { "name": "4 star", "count": 350000 },
-      { "name": "5 star", "count": 1440000 }
-    ]
-  },
-  {
-    "image": "https://img.logo.dev/apple.com?token=pk_EclP8psRS3OsUQbk-IgvtQ&retina=true",
-    "title": "Apple",
-    "companyName": "Apple Inc",
-    "id": 15,
-    "description": "Apple is a world-renowned technology company that designs premium devices like the iPhone, iPad, Mac, and Apple Watch. Its ecosystem integrates hardware, software, and services such as iCloud, Apple Music, and the App Store. Known for sleek design, innovation, and performance, Apple products are used by millions globally. Its privacy-first approach sets it apart in the industry. Apple’s M-series chips have transformed computing with high efficiency. With services like Apple TV+, it also competes in entertainment. The company’s influence on modern technology is unmatched, continuing to inspire creativity and innovation while shaping the future of digital devices and lifestyles.",
-    "size": 180,
-    "reviews": 2100000,
-    "ratingAvg": 4.7,
-    "downloads": 3000000000,
-    "ratings": [
-      { "name": "1 star", "count": 80000 },
-      { "name": "2 star", "count": 70000 },
-      { "name": "3 star", "count": 110000 },
-      { "name": "4 star", "count": 400000 },
-      { "name": "5 star", "count": 1500000 }
-    ]
-  },
-  {
-    "image": "https://img.logo.dev/paypal.com?token=pk_EclP8psRS3OsUQbk-IgvtQ&retina=true",
-    "title": "PayPal",
-    "companyName": "PayPal Holdings",
-    "id": 16,
-    "description": "PayPal is a trusted online payment platform that allows individuals and businesses to send and receive money securely. It supports payments for online shopping, subscriptions, and peer-to-peer transfers. With features like PayPal Credit, invoicing, and multi-currency support, it is widely used worldwide. Its mobile app allows quick payments with a few taps, while strong encryption ensures safety. Merchants integrate PayPal for fast checkout experiences. Users can also link bank accounts and cards for flexible payments. As digital wallets grow, PayPal continues to expand with innovations like crypto support, making it a leading platform for secure financial transactions globally.",
-    "size": 60,
-    "reviews": 450000,
+    "description": "E-commerce platform for building online stores, managing products, and sales.",
+    "size": 95,
+    "reviews": 420000,
     "ratingAvg": 4.3,
     "downloads": 700000000,
     "ratings": [
-      { "name": "1 star", "count": 20000 },
-      { "name": "2 star", "count": 15000 },
-      { "name": "3 star", "count": 30000 },
+      { "name": "1 star", "count": 10000 },
+      { "name": "2 star", "count": 8000 },
+      { "name": "3 star", "count": 20000 },
       { "name": "4 star", "count": 100000 },
-      { "name": "5 star", "count": 285000 }
+      { "name": "5 star", "count": 282000 }
     ]
   },
   {
-    "image": "https://img.logo.dev/telegram.org?token=pk_EclP8psRS3OsUQbk-IgvtQ&retina=true",
-    "title": "Telegram",
-    "companyName": "Telegram FZ-LLC",
-    "id": 17,
-    "description": "Telegram is a cloud-based messaging app that focuses on speed and security. It offers free and unlimited messaging, voice calls, and media sharing across devices. With channels and groups that support thousands of members, Telegram is popular for communities, businesses, and public figures. It also features bots, stickers, and secret chats with end-to-end encryption. Unlike many competitors, Telegram does not limit storage, keeping chats synchronized across platforms. It also supports file sharing up to 2GB. Its privacy-first approach and constant innovation make Telegram a favorite among users who value fast, reliable, and secure digital communication worldwide.",
-    "size": 45,
+    "image": "https://img.logo.dev/airbnb.com?token=pk_test123&retina=true",
+    "title": "Airbnb",
+    "companyName": "Airbnb Inc",
+    "id": 13,
+    "description": "Book stays and experiences worldwide with hosts and travelers.",
+    "size": 130,
     "reviews": 650000,
-    "ratingAvg": 4.6,
+    "ratingAvg": 4.4,
     "downloads": 1000000000,
     "ratings": [
       { "name": "1 star", "count": 18000 },
       { "name": "2 star", "count": 15000 },
-      { "name": "3 star", "count": 25000 },
-      { "name": "4 star", "count": 120000 },
-      { "name": "5 star", "count": 472000 }
+      { "name": "3 star", "count": 30000 },
+      { "name": "4 star", "count": 140000 },
+      { "name": "5 star", "count": 447000 }
     ]
   },
   {
-    "image": "https://img.logo.dev/slack.com?token=pk_EclP8psRS3OsUQbk-IgvtQ&retina=true",
-    "title": "Slack",
-    "companyName": "Slack Technologies",
-    "id": 18,
-    "description": "Slack is a business communication and collaboration platform widely used by companies and teams. It organizes conversations into channels, making teamwork structured and efficient. Slack integrates with thousands of apps like Google Drive, Zoom, and Trello, centralizing workflows. Features include file sharing, video calls, and searchable chat history. Businesses use Slack to reduce email clutter and improve productivity. Slack Connect also allows organizations to collaborate externally. With a focus on efficiency and teamwork, Slack continues to innovate with automation and AI, making it a core tool for modern digital workplaces and remote teams across industries worldwide.",
+    "image": "https://img.logo.dev/duolingo.com?token=pk_test123&retina=true",
+    "title": "Duolingo",
+    "companyName": "Duolingo Inc",
+    "id": 14,
+    "description": "Language learning app with gamified lessons and practice exercises.",
+    "size": 60,
+    "reviews": 950000,
+    "ratingAvg": 4.8,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 10000 },
+      { "name": "2 star", "count": 12000 },
+      { "name": "3 star", "count": 20000 },
+      { "name": "4 star", "count": 90000 },
+      { "name": "5 star", "count": 818000 }
+    ]
+  },
+  {
+    "image": "https://img.logo.dev/paypal.com?token=pk_test123&retina=true",
+    "title": "PayPal",
+    "companyName": "PayPal Holdings",
+    "id": 15,
+    "description": "Payment platform for online shopping, transfers, and business transactions.",
     "size": 70,
-    "reviews": 300000,
+    "reviews": 700000,
+    "ratingAvg": 4.3,
+    "downloads": 1200000000,
+    "ratings": [
+      { "name": "1 star", "count": 20000 },
+      { "name": "2 star", "count": 15000 },
+      { "name": "3 star", "count": 40000 },
+      { "name": "4 star", "count": 120000 },
+      { "name": "5 star", "count": 505000 }
+    ]
+  },
+  {
+    "image": "https://img.logo.dev/reddit.com?token=pk_test123&retina=true",
+    "title": "Reddit",
+    "companyName": "Reddit Inc",
+    "id": 16,
+    "description": "Community-driven platform for discussions, news, and memes.",
+    "size": 85,
+    "reviews": 900000,
     "ratingAvg": 4.4,
-    "downloads": 500000000,
+    "downloads": 800000000,
+    "ratings": [
+      { "name": "1 star", "count": 30000 },
+      { "name": "2 star", "count": 25000 },
+      { "name": "3 star", "count": 50000 },
+      { "name": "4 star", "count": 120000 },
+      { "name": "5 star", "count": 675000 }
+    ]
+  },
+  {
+    "image": "https://img.logo.dev/uber.com?token=pk_test123&retina=true",
+    "title": "Uber",
+    "companyName": "Uber Technologies",
+    "id": 17,
+    "description": "Ride-hailing and food delivery platform for convenient travel and meals.",
+    "size": 90,
+    "reviews": 1500000,
+    "ratingAvg": 4.5,
+    "downloads": 3200000000,
+    "ratings": [
+      { "name": "1 star", "count": 40000 },
+      { "name": "2 star", "count": 35000 },
+      { "name": "3 star", "count": 60000 },
+      { "name": "4 star", "count": 200000 },
+      { "name": "5 star", "count": 1205000 }
+    ]
+  },
+  {
+    "image": "https://img.logo.dev/dropbox.com?token=pk_test123&retina=true",
+    "title": "Dropbox",
+    "companyName": "Dropbox Inc",
+    "id": 18,
+    "description": "Cloud storage platform for file sharing, sync, and team collaboration.",
+    "size": 75,
+    "reviews": 550000,
+    "ratingAvg": 4.2,
+    "downloads": 600000000,
+    "ratings": [
+      { "name": "1 star", "count": 15000 },
+      { "name": "2 star", "count": 14000 },
+      { "name": "3 star", "count": 25000 },
+      { "name": "4 star", "count": 100000 },
+      { "name": "5 star", "count": 396000 }
+    ]
+  },
+  {
+    "image": "https://img.logo.dev/pinterest.com?token=pk_test123&retina=true",
+    "title": "Pinterest",
+    "companyName": "Pinterest Inc",
+    "id": 19,
+    "description": "Visual discovery and bookmarking platform for inspiration and ideas.",
+    "size": 65,
+    "reviews": 800000,
+    "ratingAvg": 4.5,
+    "downloads": 900000000,
+    "ratings": [
+      { "name": "1 star", "count": 20000 },
+      { "name": "2 star", "count": 16000 },
+      { "name": "3 star", "count": 40000 },
+      { "name": "4 star", "count": 150000 },
+      { "name": "5 star", "count": 574000 }
+    ]
+  },
+  {
+    "image": "https://img.logo.dev/slack.com?token=pk_test123&retina=true",
+    "title": "Slack",
+    "companyName": "Salesforce",
+    "id": 20,
+    "description": "Team communication and collaboration app with channels, integrations, and bots.",
+    "size": 100,
+    "reviews": 500000,
+    "ratingAvg": 4.6,
+    "downloads": 750000000,
     "ratings": [
       { "name": "1 star", "count": 12000 },
       { "name": "2 star", "count": 10000 },
-      { "name": "3 star", "count": 20000 },
-      { "name": "4 star", "count": 80000 },
-      { "name": "5 star", "count": 178000 }
-    ]
-  },
-  {
-    "image": "https://img.logo.dev/github.com?token=pk_EclP8psRS3OsUQbk-IgvtQ&retina=true",
-    "title": "GitHub",
-    "companyName": "Microsoft",
-    "id": 19,
-    "description": "GitHub is the world’s leading platform for version control and collaborative software development. Built on Git, it enables developers to host code repositories, track changes, and collaborate on projects. With pull requests, issues, and discussions, GitHub makes open-source contribution easy. Millions of developers and organizations use it for both personal and enterprise projects. GitHub Actions automate workflows, while GitHub Copilot brings AI assistance to coding. With integrations, security scanning, and package hosting, GitHub is more than just a code host—it is an ecosystem for innovation. Owned by Microsoft, it empowers global software development and open-source collaboration.",
-    "size": 85,
-    "reviews": 250000,
-    "ratingAvg": 4.7,
-    "downloads": 400000000,
-    "ratings": [
-      { "name": "1 star", "count": 8000 },
-      { "name": "2 star", "count": 6000 },
-      { "name": "3 star", "count": 15000 },
-      { "name": "4 star", "count": 70000 },
-      { "name": "5 star", "count": 151000 }
-    ]
-  },
-  {
-    "image": "https://img.logo.dev/zoom.us?token=pk_EclP8psRS3OsUQbk-IgvtQ&retina=true",
-    "title": "Zoom",
-    "companyName": "Zoom Video Communications",
-    "id": 20,
-    "description": "Zoom is a leading video conferencing platform that became essential for remote work, online learning, and virtual events. It allows high-quality video and audio calls with features like screen sharing, breakout rooms, and meeting recordings. Businesses, schools, and individuals use Zoom to stay connected globally. Its app is available on desktop and mobile devices, offering reliable communication even with large participants. Zoom also integrates with productivity tools, making collaboration seamless. With strong encryption and enterprise-grade features, it is trusted by organizations worldwide. Zoom continues to innovate, ensuring people can work, learn, and socialize remotely with ease and reliability.",
-    "size": 95,
-    "reviews": 1200000,
-    "ratingAvg": 4.5,
-    "downloads": 2000000000,
-    "ratings": [
-      { "name": "1 star", "count": 50000 },
-      { "name": "2 star", "count": 40000 },
-      { "name": "3 star", "count": 90000 },
-      { "name": "4 star", "count": 250000 },
-      { "name": "5 star", "count": 850000 }
+      { "name": "3 star", "count": 25000 },
+      { "name": "4 star", "count": 100000 },
+      { "name": "5 star", "count": 353000 }
     ]
   }
 ]

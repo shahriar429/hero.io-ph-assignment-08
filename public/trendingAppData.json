@@ -1,146 +1,146 @@
 [
   {
-    "image": "https://img.logo.dev/google.com?token=pk_EclP8psRS3OsUQbk-IgvtQ&retina=true",
-    "title": "Google",
-    "companyName": "Google LLC",
-    "id": 1,
-    "description": "Search the world's information.",
-    "size": 45,
-    "reviews": 1250000,
-    "ratingAvg": 4.6,
-    "downloads": 5000000000,
-    "ratings": [
-      { "name": "1 star", "count": 30000 },
-      { "name": "2 star", "count": 20000 },
-      { "name": "3 star", "count": 40000 },
-      { "name": "4 star", "count": 120000 },
-      { "name": "5 star", "count": 1100000 }
-    ]
-  },
-  {
-    "image": "https://img.logo.dev/facebook.com?token=pk_EclP8psRS3OsUQbk-IgvtQ&retina=true",
-    "title": "Facebook",
-    "companyName": "Meta Platforms",
-    "id": 2,
-    "description": "Connect with friends and communities.",
-    "size": 80,
-    "reviews": 2400000,
-    "ratingAvg": 4.3,
-    "downloads": 3000000000,
-    "ratings": [
-      { "name": "1 star", "count": 90000 },
-      { "name": "2 star", "count": 70000 },
-      { "name": "3 star", "count": 120000 },
-      { "name": "4 star", "count": 500000 },
-      { "name": "5 star", "count": 1700000 }
-    ]
-  },
-  {
-    "image": "https://img.logo.dev/twitter.com?token=pk_EclP8psRS3OsUQbk-IgvtQ&retina=true",
-    "title": "Twitter",
-    "companyName": "X Corp",
-    "id": 3,
-    "description": "Real-time news and updates.",
-    "size": 60,
-    "reviews": 900000,
-    "ratingAvg": 4.1,
-    "downloads": 2000000000,
-    "ratings": [
-      { "name": "1 star", "count": 80000 },
-      { "name": "2 star", "count": 60000 },
-      { "name": "3 star", "count": 90000 },
-      { "name": "4 star", "count": 300000 },
-      { "name": "5 star", "count": 600000 }
-    ]
-  },
-  {
-    "image": "https://img.logo.dev/instagram.com?token=pk_EclP8psRS3OsUQbk-IgvtQ&retina=true",
-    "title": "Instagram",
-    "companyName": "Meta Platforms",
-    "id": 4,
-    "description": "Share your moments with the world.",
-    "size": 70,
-    "reviews": 1800000,
-    "ratingAvg": 4.5,
-    "downloads": 3500000000,
-    "ratings": [
-      { "name": "1 star", "count": 50000 },
-      { "name": "2 star", "count": 40000 },
-      { "name": "3 star", "count": 100000 },
-      { "name": "4 star", "count": 400000 },
-      { "name": "5 star", "count": 1300000 }
-    ]
-  },
-  {
-    "image": "https://img.logo.dev/whatsapp.com?token=pk_EclP8psRS3OsUQbk-IgvtQ&retina=true",
+    "image": "https://img.logo.dev/whatsapp.com?token=pk_test123&retina=true",
     "title": "WhatsApp",
     "companyName": "Meta Platforms",
-    "id": 5,
-    "description": "Fast, simple, secure messaging.",
-    "size": 35,
-    "reviews": 2200000,
-    "ratingAvg": 4.7,
-    "downloads": 5000000000,
+    "id": 1,
+    "description": "Secure messaging app with end-to-end encryption, voice and video calls, and media sharing.",
+    "size": 50,
+    "reviews": 2800000,
+    "ratingAvg": 4.6,
+    "downloads": 5200000000,
+    "ratings": [
+      { "name": "1 star", "count": 60000 },
+      { "name": "2 star", "count": 50000 },
+      { "name": "3 star", "count": 90000 },
+      { "name": "4 star", "count": 400000 },
+      { "name": "5 star", "count": 2300000 }
+    ]
+  },
+  {
+    "image": "https://img.logo.dev/zoom.us?token=pk_test123&retina=true",
+    "title": "Zoom",
+    "companyName": "Zoom Video Communications",
+    "id": 2,
+    "description": "Video conferencing platform for online meetings, remote work, and virtual classes.",
+    "size": 110,
+    "reviews": 950000,
+    "ratingAvg": 4.4,
+    "downloads": 2500000000,
     "ratings": [
       { "name": "1 star", "count": 40000 },
       { "name": "2 star", "count": 30000 },
       { "name": "3 star", "count": 80000 },
-      { "name": "4 star", "count": 300000 },
-      { "name": "5 star", "count": 1800000 }
+      { "name": "4 star", "count": 220000 },
+      { "name": "5 star", "count": 580000 }
     ]
   },
   {
-    "image": "https://img.logo.dev/linkedin.com?token=pk_EclP8psRS3OsUQbk-IgvtQ&retina=true",
-    "title": "LinkedIn",
-    "companyName": "Microsoft",
+    "image": "https://img.logo.dev/google.com?token=pk_test123&retina=true",
+    "title": "Google",
+    "companyName": "Google LLC",
+    "id": 3,
+    "description": "Search, cloud, and productivity apps like Gmail, Drive, Maps, and YouTube.",
+    "size": 70,
+    "reviews": 1100000,
+    "ratingAvg": 4.5,
+    "downloads": 4800000000,
+    "ratings": [
+      { "name": "1 star", "count": 25000 },
+      { "name": "2 star", "count": 20000 },
+      { "name": "3 star", "count": 50000 },
+      { "name": "4 star", "count": 150000 },
+      { "name": "5 star", "count": 1000000 }
+    ]
+  },
+  {
+    "image": "https://img.logo.dev/facebook.com?token=pk_test123&retina=true",
+    "title": "Facebook",
+    "companyName": "Meta Platforms",
+    "id": 4,
+    "description": "Social media app for connecting with friends, sharing posts, and joining groups.",
+    "size": 90,
+    "reviews": 1800000,
+    "ratingAvg": 4.2,
+    "downloads": 3500000000,
+    "ratings": [
+      { "name": "1 star", "count": 70000 },
+      { "name": "2 star", "count": 50000 },
+      { "name": "3 star", "count": 110000 },
+      { "name": "4 star", "count": 300000 },
+      { "name": "5 star", "count": 1270000 }
+    ]
+  },
+  {
+    "image": "https://img.logo.dev/twitter.com?token=pk_test123&retina=true",
+    "title": "Twitter (X)",
+    "companyName": "X Corp",
+    "id": 5,
+    "description": "Microblogging app for real-time updates, trending topics, and global conversations.",
+    "size": 65,
+    "reviews": 1200000,
+    "ratingAvg": 4.3,
+    "downloads": 2100000000,
+    "ratings": [
+      { "name": "1 star", "count": 40000 },
+      { "name": "2 star", "count": 30000 },
+      { "name": "3 star", "count": 70000 },
+      { "name": "4 star", "count": 180000 },
+      { "name": "5 star", "count": 900000 }
+    ]
+  },
+  {
+    "image": "https://img.logo.dev/instagram.com?token=pk_test123&retina=true",
+    "title": "Instagram",
+    "companyName": "Meta Platforms",
     "id": 6,
-    "description": "Professional networking platform.",
-    "size": 55,
-    "reviews": 600000,
-    "ratingAvg": 4.4,
+    "description": "Photo and video sharing app with reels, stories, and influencer content.",
+    "size": 80,
+    "reviews": 2000000,
+    "ratingAvg": 4.6,
+    "downloads": 4500000000,
+    "ratings": [
+      { "name": "1 star", "count": 50000 },
+      { "name": "2 star", "count": 40000 },
+      { "name": "3 star", "count": 100000 },
+      { "name": "4 star", "count": 300000 },
+      { "name": "5 star", "count": 1550000 }
+    ]
+  },
+  {
+    "image": "https://img.logo.dev/discord.com?token=pk_test123&retina=true",
+    "title": "Discord",
+    "companyName": "Discord Inc",
+    "id": 7,
+    "description": "Chat app for gamers and communities with voice, video, and moderation tools.",
+    "size": 85,
+    "reviews": 800000,
+    "ratingAvg": 4.5,
     "downloads": 1000000000,
     "ratings": [
       { "name": "1 star", "count": 20000 },
       { "name": "2 star", "count": 15000 },
-      { "name": "3 star", "count": 40000 },
-      { "name": "4 star", "count": 150000 },
-      { "name": "5 star", "count": 375000 }
+      { "name": "3 star", "count": 30000 },
+      { "name": "4 star", "count": 120000 },
+      { "name": "5 star", "count": 615000 }
     ]
   },
   {
-    "image": "https://img.logo.dev/snapchat.com?token=pk_EclP8psRS3OsUQbk-IgvtQ&retina=true",
-    "title": "Snapchat",
-    "companyName": "Snap Inc.",
-    "id": 7,
-    "description": "Share moments instantly.",
-    "size": 45,
-    "reviews": 850000,
-    "ratingAvg": 4.2,
-    "downloads": 1500000000,
-    "ratings": [
-      { "name": "1 star", "count": 30000 },
-      { "name": "2 star", "count": 25000 },
-      { "name": "3 star", "count": 60000 },
-      { "name": "4 star", "count": 200000 },
-      { "name": "5 star", "count": 535000 }
-    ]
-  },
-  {
-    "image": "https://img.logo.dev/tiktok.com?token=pk_EclP8psRS3OsUQbk-IgvtQ&retina=true",
-    "title": "TikTok",
-    "companyName": "ByteDance",
+    "image": "https://img.logo.dev/linkedin.com?token=pk_test123&retina=true",
+    "title": "LinkedIn",
+    "companyName": "Microsoft",
     "id": 8,
-    "description": "Create and discover short videos.",
-    "size": 75,
-    "reviews": 2000000,
-    "ratingAvg": 4.6,
-    "downloads": 4000000000,
+    "description": "Professional networking platform for jobs, connections, and industry insights.",
+    "size": 95,
+    "reviews": 600000,
+    "ratingAvg": 4.4,
+    "downloads": 1300000000,
     "ratings": [
-      { "name": "1 star", "count": 70000 },
-      { "name": "2 star", "count": 50000 },
-      { "name": "3 star", "count": 120000 },
-      { "name": "4 star", "count": 400000 },
-      { "name": "5 star", "count": 1410000 }
+      { "name": "1 star", "count": 15000 },
+      { "name": "2 star", "count": 12000 },
+      { "name": "3 star", "count": 25000 },
+      { "name": "4 star", "count": 80000 },
+      { "name": "5 star", "count": 470000 }
     ]
   }
 ]
