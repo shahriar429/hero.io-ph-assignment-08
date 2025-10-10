@@ -43,7 +43,7 @@ const Navbar = () => {
                 </ul>
             </div>
             <div className="navbar-end space-x-2">
-                <a href='https://github.com/masrafi143' target='_blank' className='btn bg-gradient-to-r from-[#632EE3] to-[#9F62F2]'>                    
+                <a href='https://github.com/shahriar429' target='_blank' className='btn bg-gradient-to-r from-[#632EE3] to-[#9F62F2]'>                    
                     <i className="fa-brands fa-github text-white"></i>
                     <span className=" text-white rounded-lg">Contribute</span>
                 </a>

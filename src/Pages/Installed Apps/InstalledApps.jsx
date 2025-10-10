@@ -42,8 +42,8 @@ const InstalledApps = () => {
                             <h2>Sort By Downloads</h2>
                             <select onChange={(e) => handleSort(e.target.value)} className="select select-primary">
                                 <option disabled selected>Select Order</option>
-                                <option value="ascending">Low to High (ascending)</option>
-                                <option value="descending">High to Low (descending)</option>
+                                <option value="ascending">Low to High</option>
+                                <option value="descending">High to Low</option>
                             </select>
                         </div>
                     </div>

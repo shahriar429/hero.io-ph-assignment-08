@@ -10,7 +10,7 @@ const Footer = () => {
                     <img className='w-[70px] h-[70px]' src={FooterLogo} alt="" />
                     <p className='font-bold text-2xl'>HERO.IO</p>
                 </div>
-                <p>Providing reliable tech since 2000</p>
+                <p>Providing reliable tech since 1990</p>
             </div>
             <nav>
                 <h6 className="footer-title">Services</h6>
@@ -68,7 +68,7 @@ const Footer = () => {
         <hr className='text-white'/>
         <div className="footer sm:footer-horizontal footer-center bg-black text-white p-4">
             <aside>
-                <p>Copyright © {new Date().getFullYear()} - All right reserved by @Mohammad Masrafi "Hero.io Ltd"</p>
+                <p>Copyright © 2025 - All right reserved</p>
             </aside>
         </div>
         </>
